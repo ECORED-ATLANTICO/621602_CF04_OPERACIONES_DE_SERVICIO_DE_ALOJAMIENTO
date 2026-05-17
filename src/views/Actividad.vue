@@ -43,7 +43,7 @@ export default {
         {
           id: 2,
           texto:
-            'La <i>waiting list</i> se utiliza únicamente para reservas corporativas.',
+            'La <em>waiting list</em> se utiliza únicamente para reservas corporativas.',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: false,
           opciones: [
@@ -58,7 +58,7 @@ export default {
         {
           id: 3,
           texto:
-            'El <i>forecasting</i> permite estimar niveles futuros de ocupación hotelera.',
+            'El <em>forecasting</em> permite estimar niveles futuros de ocupación hotelera.',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: false,
           opciones: [
@@ -73,7 +73,7 @@ export default {
         {
           id: 4,
           texto:
-            'El <i>overbooking</i> consiste en bloquear habitaciones para mantenimiento.',
+            'El <em>overbooking</em> consiste en bloquear habitaciones para mantenimiento.',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: false,
           opciones: [
@@ -118,7 +118,7 @@ export default {
         {
           id: 7,
           texto:
-            'El <i>rooming list</i> es utilizado principalmente en reservas grupales.',
+            'El <em>rooming list</em> es utilizado principalmente en reservas grupales.',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: false,
           opciones: [
@@ -177,7 +177,7 @@ export default {
         {
           id: 11,
           texto:
-            'El <i>no show</i> ocurre cuando el huésped modifica la reserva antes de la llegada.',
+            'El <em>no show</em> ocurre cuando el huésped modifica la reserva antes de la llegada.',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: false,
           opciones: [
@@ -237,7 +237,7 @@ export default {
         {
           id: 15,
           texto:
-            'Las garantías de reserva ayudan a reducir pérdidas económicas derivadas de cancelaciones o <i>no show</i>.',
+            'Las garantías de reserva ayudan a reducir pérdidas económicas derivadas de cancelaciones o <em>no show</em>.',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: false,
           opciones: [

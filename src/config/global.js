@@ -71,27 +71,27 @@ export default {
         subMenu: [
           {
             numero: '2.1',
-            titulo: 'Rooming list',
+            titulo: '<em>Rooming list</em>',
             hash: 't_2_1',
           },
           {
             numero: '2.2',
-            titulo: 'Waiting list',
+            titulo: '<em>Waiting list</em>',
             hash: 't_2_2',
           },
           {
             numero: '2.3',
-            titulo: 'Forecasting (pronóstico de ocupación)',
+            titulo: '<em>Forecasting</em> (pronóstico de ocupación)',
             hash: 't_2_3',
           },
           {
             numero: '2.4',
-            titulo: 'Overbooking',
+            titulo: '<em>Overbooking</em>',
             hash: 't_2_4',
           },
           {
             numero: '2.5',
-            titulo: 'No show',
+            titulo: '<em>No show</em>',
             hash: 't_2_5',
           },
         ],
@@ -127,7 +127,7 @@ export default {
       {
         nombreRuta: 'tema4',
         numero: '4',
-        titulo: 'Políticas y tratamiento de reservas',
+        titulo: 'Políticas y tratamientos de reservas',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -184,7 +184,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/dist.pdf',
+        download: 'downloads/621602_CF4_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -208,7 +208,7 @@ export default {
   ],
   glosario: [
     {
-      termino: 'Allotment',
+      termino: '<em>Allotment</em>',
       significado:
         'Cupo de habitaciones asignado por el hotel a agencias o empresas para su comercialización durante un periodo determinado.',
     },
@@ -218,7 +218,7 @@ export default {
         'Procedimiento mediante el cual se elimina una reserva creada por error o inconsistencia en el sistema.',
     },
     {
-      termino: 'Booking engine',
+      termino: '<em>Booking engine</em>',
       significado:
         'Motor de reservas integrado a páginas web que permite realizar reservas online.',
     },
@@ -233,17 +233,17 @@ export default {
         'Suspensión de una reserva antes de la fecha de llegada del huésped.',
     },
     {
-      termino: 'Channel manager',
+      termino: '<em>Channel manager</em>',
       significado:
-        'Software que sincroniza tarifas y disponibilidad en diferentes canales de venta.',
+        '<em>Software</em> que sincroniza tarifas y disponibilidad en diferentes canales de venta.',
     },
     {
-      termino: 'Check-in',
+      termino: '<em>Check-in</em>',
       significado:
         'Proceso de registro e ingreso del huésped al establecimiento de alojamiento.',
     },
     {
-      termino: 'Check-out',
+      termino: '<em>Check-out</em>',
       significado:
         'Proceso de salida del huésped y cierre de cuenta en el hotel.',
     },
@@ -258,7 +258,7 @@ export default {
         'Proceso mediante el cual el hotel valida y acepta oficialmente una reserva.',
     },
     {
-      termino: 'Forecasting',
+      termino: '<em>Forecasting</em>',
       significado:
         'Pronóstico de ocupación hotelera basado en análisis de demanda y reservas.',
     },
@@ -288,7 +288,7 @@ export default {
         'Disponibilidad total de habitaciones que posee un establecimiento.',
     },
     {
-      termino: 'Lista de espera (waiting list)',
+      termino: 'Lista de espera (<em>waiting list</em>)',
       significado:
         'Registro de clientes pendientes de disponibilidad de habitaciones.',
     },
@@ -297,7 +297,7 @@ export default {
       significado: 'Cambio realizado sobre una reserva previamente confirmada.',
     },
     {
-      termino: 'No show',
+      termino: '<em>No show</em>',
       significado:
         'Situación en la cual el huésped no se presenta sin cancelar la reserva.',
     },
@@ -312,7 +312,7 @@ export default {
         'Agencia de viajes online que comercializa servicios turísticos y hoteleros.',
     },
     {
-      termino: 'Overbooking',
+      termino: '<em>Overbooking</em>',
       significado:
         'Venta de habitaciones por encima de la disponibilidad real del hotel.',
     },
@@ -341,7 +341,7 @@ export default {
       significado: 'Reserva pendiente de confirmación definitiva.',
     },
     {
-      termino: 'Rooming list',
+      termino: '<em>Rooming list</em>',
       significado:
         'Documento que contiene la distribución y datos de huéspedes de una reserva grupal.',
     },
@@ -350,7 +350,7 @@ export default {
       significado: 'Valor económico asignado al servicio de alojamiento.',
     },
     {
-      termino: 'Upgrade',
+      termino: '<em>Upgrade</em>',
       significado:
         'Mejora de categoría de habitación sin incremento en la tarifa para el huésped.',
     },
@@ -402,15 +402,15 @@ export default {
     },
     {
       referencia:
-        'Oracle Corporation. (s.f.). <em>Group Rooming List</em>. oracle.com https://docs.oracle.com/cd/E53547_01/opera_5_04_03_core_help/grprmlist_help.htm',
+        'Oracle Corporation. (s.f.). <em>Group <em>Rooming List</em></em>. oracle.com https://docs.oracle.com/cd/E53547_01/opera_5_04_03_core_help/grprmlist_help.htm',
       link:
         'https://docs.oracle.com/cd/E53547_01/opera_5_04_03_core_help/grprmlist_help.htm',
     },
     {
       referencia:
-        'Oracle Corporation. (s.f.). <em>Waitlist Screen</em>. oracle.com https://docs.oracle.com/cd/E98457_01/opera_5_6_core_help/waitlist_options.htm',
+        'Oracle Corporation. (s.f.). <em>Waitlist Screen</em>. oracle.com https://docs.oracle.com/cd/E98457_01/opera_5_6_core_help/<em>waitlist</em>_options.htm',
       link:
-        'https://docs.oracle.com/cd/E98457_01/opera_5_6_core_help/waitlist_options.htm',
+        'https://docs.oracle.com/cd/E98457_01/opera_5_6_core_help/<em>waitlist</em>_options.htm',
     },
     {
       referencia:
@@ -428,14 +428,13 @@ export default {
       autores: [
         {
           nombre: 'Claudia Johanna Gómez Pérez',
-          cargo:
-            'Responsable del Ecosistema de Recursos Educativos Digitales (RED)',
+          cargo: 'Responsable del ecosistema',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
           nombre: 'Miguel de Jesús Paredes Maestre',
-          cargo: 'Responsable de la línea de producción',
-          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
+          cargo: 'Responsable de línea de producción Atlántico',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
       ],
     },
@@ -448,14 +447,14 @@ export default {
           centro: 'Centro de Servicios y Gestión Empresarial',
         },
         {
-          nombre: 'Harbey Castelblanco Muñoz',
+          nombre: 'Harbey Castelblanco',
           cargo: 'Experto temático',
-          centro: 'Centro Nacional Colombo Alemán – Atlántico',
+          centro: 'Centro Colombo Alemán - Regional Atlántico',
         },
         {
           nombre: 'María Fernanda Morales Angulo',
-          cargo: 'Diseñador instruccional',
-          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
+          cargo: 'Evaluador instruccional',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
       ],
     },
@@ -464,18 +463,18 @@ export default {
       autores: [
         {
           nombre: 'Carmen Alicia Martínez Torres',
-          cargo: 'Diseño web',
-          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
+          cargo: 'Diseñador web',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
           nombre: 'Álvaro Guillermo Araújo Angarita',
-          cargo: 'Desarrollador <i>full stack</i>',
-          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
+          cargo: 'Desarrollador <em>full stack</em>',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
           nombre: 'Nelson Iván Vera Briceño',
           cargo: 'Animador y productor audiovisual',
-          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
       ],
     },
@@ -483,24 +482,24 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Luz Karime Amaya Cabra',
-          cargo: 'Evaluador de contenidos inclusivos y accesibles',
-          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
-        },
-        {
-          nombre: 'Laura Daniela Burgos Rueda',
-          cargo: 'Evaluador de contenidos inclusivos y accesibles',
-          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
-        },
-        {
           nombre: 'Jonathan Adié Villafañe',
-          cargo: 'Validador y vinculador de recursos digitales',
-          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
+          cargo: 'Validador de recursos educativos digitales',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
           nombre: 'Karine Isabel Ospino Fritz',
-          cargo: 'Validador y vinculador de recursos digitales',
-          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
+          cargo: 'Validador de recursos educativos digitales',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
+        },
+        {
+          nombre: 'Luz Karime Amaya Cabra',
+          cargo: 'Evaluador para contenidos inclusivos y accesibles',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
+        },
+        {
+          nombre: 'Laura Daniela Burgos Rueda',
+          cargo: 'Evaluador para contenidos inclusivos y accesibles',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
       ],
     },

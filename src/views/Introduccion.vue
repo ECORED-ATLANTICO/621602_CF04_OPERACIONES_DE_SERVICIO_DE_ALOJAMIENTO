@@ -10,7 +10,7 @@
     
     .row.justify-content-center.align-items-center.mb-3
       .col-lg-12
-        p El componente formativo Procedimientos de reservas es fundamental en la operación de los establecimientos de alojamiento, ya que una adecuada gestión de las reservas influye en la ocupación, la comercialización de habitaciones y la satisfacción del cliente. En este componente se estudian los diferentes canales y tipos de reservas, así como herramientas operativas como rooming list, waiting list, forecasting, overbooking y no show, que permiten controlar la ocupación y apoyar la toma de decisiones en el área de reservas.
+        p El componente formativo Procedimientos de reservas es fundamental en la operación de los establecimientos de alojamiento, ya que una adecuada gestión de las reservas influye en la ocupación, la comercialización de habitaciones y la satisfacción del cliente. En este componente se estudian los diferentes canales y tipos de reservas, así como herramientas operativas como <em>rooming list</em>, <em>waiting list</em>, <em>forecasting</em>, <em>overbooking</em> y <em>no show</em>, que permiten controlar la ocupación y apoyar la toma de decisiones en el área de reservas.
     
     .container
       .row.justify-content-center.align-items-center.mb-5.bg-color-1

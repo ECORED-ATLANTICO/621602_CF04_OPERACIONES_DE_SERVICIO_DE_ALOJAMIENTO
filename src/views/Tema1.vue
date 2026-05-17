@@ -139,25 +139,25 @@
           .tarjeta.color-acento-botones--borde.p-4.align-content-center(titulo="Agencias de viajes tradicionales")
             p.mb-0 Con la aparición de las agencias de viajes en línea (OTA) en el final de los años noventa, estas entidades empezaron a desaparecer. Hoy día se mantienen algunas que se dedican más al sector corporativo y al segmento <i>tour and travel</i>, donde la organización de viajes es imperativa. Algunos ejemplos son: Aviatur, Viajar Ltda.
             
-          .tarjeta.color-acento-botones--borde.p-4(titulo="Agencias de viajes en línea (OTA)")
+          .tarjeta.color-acento-botones--borde.p-4.align-content-center(titulo="Agencias de viajes en línea (OTA)")
             p.mb-0 Son plataformas web dedicadas a la comercialización de servicios turísticos y hoteleros. Representan la evolución digital de las agencias tradicionales y dominan gran parte del mercado gracias a fuertes inversiones en marketing. Ejemplo: Booking.com.
 
-          .tarjeta.color-acento-botones--borde.p-4(titulo="Bancos de camas")
+          .tarjeta.color-acento-botones--borde.p-4.align-content-center(titulo="Bancos de camas")
             p.mb-0 Operan como mayoristas turísticos, negociando grandes volúmenes de servicios con proveedores como hoteles, transportes, excursiones y eventos. Posteriormente, redistribuyen esta oferta a agencias de viajes. Ejemplo: Hotelbeds.
 
-          .tarjeta.color-acento-botones--borde.p-4(titulo="Sistemas de distribución global (GDS)")
+          .tarjeta.color-acento-botones--borde.p-4.align-content-center(titulo="Sistemas de distribución global (GDS)")
             p.mb-0 Originados en la industria aérea, los GDS facilitan la comercialización de múltiples productos turísticos, como vuelos, hoteles, cruceros y alquiler de vehículos. Han evolucionado hacia plataformas digitales más eficientes y conectadas a internet. Ejemplo: Amadeus.
 
-          .tarjeta.color-acento-botones--borde.p-4(titulo="Buscadores y metabuscadores")
+          .tarjeta.color-acento-botones--borde.p-4.align-content-center(titulo="Buscadores y metabuscadores")
             p.mb-0 Son plataformas que comparan precios y monetizan a través de publicidad. Redirigen a los usuarios hacia las OTA para concretar la reserva. Ejemplo: Trivago.
 
-          .tarjeta.color-acento-botones--borde.p-4(titulo="Sitios de reputación social")
+          .tarjeta.color-acento-botones--borde.p-4.align-content-center(titulo="Sitios de reputación social")
             p.mb-0 Estas plataformas se centran en la gestión de comentarios y valoraciones de los usuarios, convirtiéndose en una fuente clave de información para la toma de decisiones y la generación de ventas. En el sector hotelero destaca Tripadvisor.
 
-          .tarjeta.color-acento-botones--borde.p-4(titulo="Vacation Rentals")
+          .tarjeta.color-acento-botones--borde.p-4.align-content-center(titulo="Vacation Rentals")
             p.mb-0 Surgieron como alternativa a los hoteles, permitiendo el alquiler de propiedades para estancias cortas a precios competitivos. Actualmente, además de competir, funcionan como aliados estratégicos en la comercialización de alojamiento. Ejemplo: Airbnb.
 
-          .tarjeta.color-acento-botones--borde.p-4(titulo="Blogs")
+          .tarjeta.color-acento-botones--borde.p-4.align-content-center(titulo="Blogs")
             p.mb-0 Son sitios web independientes que generan contenido informativo y recomendaciones. Atraen tráfico orgánico que las marcas aprovechan mediante estrategias de marketing digital y <i>remarketing</i> para promocionar sus productos y servicios.
             
     .row.justify-content-center.align-items-center.mb-3
@@ -227,7 +227,7 @@
 
           .row.justify-content-center.align-items-center.p-4.p-lg-3
             .col-lg-8.mb-4.mb-lg-0.mb-3.mb-lg-0
-              p.mb-3 Ante esta situación, el hotel implementa un sistema channel manager conectado al PMS, permitiendo sincronizar automáticamente la disponibilidad y tarifas en todos los canales. Esto mejora el control operativo, reduce errores y optimiza la comercialización del servicio.
+              p.mb-3 Ante esta situación, el hotel implementa un sistema <em>channel manager</em> conectado al PMS, permitiendo sincronizar automáticamente la disponibilidad y tarifas en todos los canales. Esto mejora el control operativo, reduce errores y optimiza la comercialización del servicio.
               p.mb-0 Este caso evidencia que el uso de múltiples canales puede aumentar significativamente las oportunidades de venta, pero también exige una adecuada gestión tecnológica y operativa para garantizar la eficiencia del proceso de reservas.
 
             .col-md-8.col-lg-4
@@ -312,7 +312,7 @@
             .row.justify-content-center.mb-3
               .col-8
                 img(src='@/assets/curso/tema1/img29.svg' alt='Imagen de reservas con cupo o allotment', style="width: 100px;").mx-auto
-            h4.text-center <b>Reservas con cupo o <i>allotment</i></b>
+            h4.text-center <b>Reservas con cupo o <em>allotment</em></b>
             p.text-center Consisten en habitaciones bloqueadas previamente para agencias o empresas durante un periodo determinado para su comercialización.
 
     .row.mb-4.justify-content-center.align-items-center
@@ -407,7 +407,7 @@
                 td Reserva anulada.
               tr
                 td NS
-                td No show.
+                td <em>No show</em>.
                 td Cliente no se presentó.
               tr
                 td WAIT
