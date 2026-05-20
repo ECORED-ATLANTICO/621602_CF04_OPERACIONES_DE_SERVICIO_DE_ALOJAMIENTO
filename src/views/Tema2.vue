@@ -113,8 +113,8 @@
                 td.tabla3 Ajuste de proyecciones.
 
       .col-lg-5.mb-0.mb-lg-0.col-md-12
-        .row.justify-content-center.mb-0
-          .col-lg-12.col-md-auto.mb-4
+        .row.justify-content-center.align-items-center.mb-0
+          .col-lg-12.col-md-auto.mb-4.d-none.d-lg-flex
             img(src="@/assets/curso/tema2/img09.svg", style="max-width: 100px")
           .col-lg
             p.mb-0 El <em>forecasting</em> es fundamental para la toma de decisiones relacionadas con tarifas, promociones, personal operativo y disponibilidad de habitaciones. Según la Organización Mundial del Turismo (OMT, 2008), el análisis de datos y proyecciones de demanda constituye una práctica clave para la sostenibilidad y competitividad de los establecimientos turísticos.

@@ -130,6 +130,18 @@
               figure
                 img(src="@/assets/curso/tema1/img12.png", alt="Imagen de centrales de reservas").mx-auto
 
+
+    .container
+      .titulo-con-imagen.mb-5(data-aos="fade-right")
+        .titulo-con-imagen__fondo
+          img.titulo-con-imagen__imagen(src="@/assets/curso/img-subtitulo.png")
+          h3.titulo-con-imagen__texto Canales Indirectos
+
+    .row.mb-5
+      .col-lg-12
+        p.mb-0 Son aquellos en los que intervienen terceros o intermediarios encargados de comercializar los servicios hoteleros. Estos canales permiten ampliar el alcance comercial del establecimiento y acceder a mercados nacionales e internacionales.
+
+
     .row.mb-5.justify-content-center.align-items-center
       .col-md-8.col-lg-4.mb-4.mb-lg-0.order-lg-2
         figure
@@ -335,7 +347,7 @@
       h2 1.5 Codificación de reservas
 
     .container
-      .row.justify-content-center.align-items-center.mb-5.bg-color-1(data-aos="fade-right")
+      .row.justify-content-center.align-items-center.mb-5.bg-color-9(data-aos="fade-right")
         .col-lg-7.p-4.order-2.order-lg-1
           p.mb-0 La codificación de reservas corresponde al conjunto de códigos, siglas y convenciones utilizados en los sistemas de gestión hotelera para registrar, identificar y controlar la información relacionada con las reservaciones. Debido al alto volumen de operaciones que manejan los establecimientos de alojamiento y al uso de plataformas tecnológicas como los PMS (Property Management System), resulta necesario emplear códigos estandarizados que permitan agilizar los procesos operativos, facilitar la comunicación interna y reducir errores en la gestión de la información.
         .col-lg-5.p-0.order-1.order-lg-2
@@ -379,7 +391,7 @@
             tbody
               tr
                 td INQ
-                td Inquiry (consulta).
+                td <em>Inquiry</em> (consulta).
                 td Solicitud inicial de información.
               tr
                 td TEN
@@ -455,100 +467,99 @@
     
     .bg-full-width.bg-fondo-7.px-5.py-4.mb-5(data-aos="fade-right")
       .container
-        .tarjeta.p-4.p-lg-5.mb-0
-          .row.justify-content-center.align-items-center
-            .col-lg-3.col-md-8.mb-4.mb-lg-0
-              img(src='@/assets/curso/tema1/img39.png', alt='Alfabeto Aeronáutico').mx-auto
-            .col-lg-9.col-md-12
-              SlyderF(columnas="col-lg-12 col-xl-12 col-md-12 col-sm-12")
-                .tarjeta.bg-white.p-4.h-100
-                  .row.justify-content-center
-                    .col-6.col-md-4.col-lg.mb-2
-                      .br-15.text-center.align-content-center.mb-2(style="background-color: #E8F2F8; height: 50px;")
-                        p.mb-0.text-bold A - Alfa
-                      .br-15.text-center.align-content-center.mb-2(style="background-color: #E8F2F8; height: 50px;")
-                        p.mb-0.text-bold B - Bravo
-                      .br-15.text-center.align-content-center.mb-2(style="background-color: #E8F2F8; height: 50px;")
-                        p.mb-0.text-bold C - <i>Charlie</i>
-                      .br-15.text-center.align-content-center.mb-2(style="background-color: #E8F2F8; height: 50px;")
-                        p.mb-0.text-bold D - Delta
-                      .br-15.text-center.align-content-center.mb-2(style="background-color: #E8F2F8; height: 50px;")
-                        p.mb-0.text-bold E - Eco
-                      .br-15.text-center.align-content-center.mb-2(style="background-color: #E8F2F8; height: 50px;")
-                        p.mb-0.text-bold F - <i>Foxtrot</i>
-                    
-                    .col-6.col-md-4.col-lg.mb-2
-                      .br-15.text-center.align-content-center.mb-2(style="background-color: #E5E9D3; height: 50px;")
-                        p.mb-0.text-bold G - Golf
-                      .br-15.text-center.align-content-center.mb-2(style="background-color: #E5E9D3; height: 50px;")
-                        p.mb-0.text-bold H - Hotel
-                      .br-15.text-center.align-content-center.mb-2(style="background-color: #E5E9D3; height: 50px;")
-                        p.mb-0.text-bold I - India
-                      .br-15.text-center.align-content-center.mb-2(style="background-color: #E5E9D3; height: 50px;")
-                        p.mb-0.text-bold J - Juliet
-                      .br-15.text-center.align-content-center.mb-2(style="background-color: #E5E9D3; height: 50px;")
-                        p.mb-0.text-bold K - Kilo
-                      .br-15.text-center.align-content-center.mb-2(style="background-color: #E5E9D3; height: 50px;")
-                        p.mb-0.text-bold L - Lima
+        .row.justify-content-center.align-items-center
+          .col-lg-3.col-md-8.mb-4.mb-lg-0
+            img(src='@/assets/curso/tema1/img39.png', alt='Alfabeto Aeronáutico').mx-auto
+          .col-lg-9.col-md-12
+            SlyderF(columnas="col-lg-12 col-xl-12 col-md-12 col-sm-12")
+              .tarjeta.bg-white.p-4.h-100
+                .row.justify-content-center
+                  .col-6.col-md-4.col-lg.mb-2
+                    .br-15.text-center.align-content-center.mb-2(style="background-color: #E8F2F8; height: 50px;")
+                      p.mb-0.text-bold A - Alfa
+                    .br-15.text-center.align-content-center.mb-2(style="background-color: #E8F2F8; height: 50px;")
+                      p.mb-0.text-bold B - Bravo
+                    .br-15.text-center.align-content-center.mb-2(style="background-color: #E8F2F8; height: 50px;")
+                      p.mb-0.text-bold C - <i>Charlie</i>
+                    .br-15.text-center.align-content-center.mb-2(style="background-color: #E8F2F8; height: 50px;")
+                      p.mb-0.text-bold D - Delta
+                    .br-15.text-center.align-content-center.mb-2(style="background-color: #E8F2F8; height: 50px;")
+                      p.mb-0.text-bold E - Eco
+                    .br-15.text-center.align-content-center.mb-2(style="background-color: #E8F2F8; height: 50px;")
+                      p.mb-0.text-bold F - <i>Foxtrot</i>
+                  
+                  .col-6.col-md-4.col-lg.mb-2
+                    .br-15.text-center.align-content-center.mb-2(style="background-color: #E5E9D3; height: 50px;")
+                      p.mb-0.text-bold G - Golf
+                    .br-15.text-center.align-content-center.mb-2(style="background-color: #E5E9D3; height: 50px;")
+                      p.mb-0.text-bold H - Hotel
+                    .br-15.text-center.align-content-center.mb-2(style="background-color: #E5E9D3; height: 50px;")
+                      p.mb-0.text-bold I - India
+                    .br-15.text-center.align-content-center.mb-2(style="background-color: #E5E9D3; height: 50px;")
+                      p.mb-0.text-bold J - Juliet
+                    .br-15.text-center.align-content-center.mb-2(style="background-color: #E5E9D3; height: 50px;")
+                      p.mb-0.text-bold K - Kilo
+                    .br-15.text-center.align-content-center.mb-2(style="background-color: #E5E9D3; height: 50px;")
+                      p.mb-0.text-bold L - Lima
 
-                    .col-6.col-md-4.col-lg.mb-2
-                      .br-15.text-center.align-content-center.mb-2(style="background-color: #F5ECE4; height: 50px;")
-                        p.mb-0.text-bold M - Mike
-                      .br-15.text-center.align-content-center.mb-2(style="background-color: #F5ECE4; height: 50px;")
-                        p.mb-0.text-bold N - <i>November</i>
-                      .br-15.text-center.align-content-center.mb-2(style="background-color: #F5ECE4; height: 50px;")
-                        p.mb-0.text-bold O - Oscar
-                      .br-15.text-center.align-content-center.mb-2(style="background-color: #F5ECE4; height: 50px;")
-                        p.mb-0.text-bold P - Papa
-                      .br-15.text-center.align-content-center.mb-2(style="background-color: #F5ECE4; height: 50px;")
-                        p.mb-0.text-bold Q - Quebec
-                      .br-15.text-center.align-content-center.mb-2(style="background-color: #F5ECE4; height: 50px;")
-                        p.mb-0.text-bold R - Romeo
+                  .col-6.col-md-4.col-lg.mb-2
+                    .br-15.text-center.align-content-center.mb-2(style="background-color: #F5ECE4; height: 50px;")
+                      p.mb-0.text-bold M - Mike
+                    .br-15.text-center.align-content-center.mb-2(style="background-color: #F5ECE4; height: 50px;")
+                      p.mb-0.text-bold N - <i>November</i>
+                    .br-15.text-center.align-content-center.mb-2(style="background-color: #F5ECE4; height: 50px;")
+                      p.mb-0.text-bold O - Oscar
+                    .br-15.text-center.align-content-center.mb-2(style="background-color: #F5ECE4; height: 50px;")
+                      p.mb-0.text-bold P - Papa
+                    .br-15.text-center.align-content-center.mb-2(style="background-color: #F5ECE4; height: 50px;")
+                      p.mb-0.text-bold Q - Quebec
+                    .br-15.text-center.align-content-center.mb-2(style="background-color: #F5ECE4; height: 50px;")
+                      p.mb-0.text-bold R - Romeo
 
-                    .col-6.col-md-4.col-lg.mb-2
-                      .br-15.text-center.align-content-center.mb-2(style="background-color: #E8F2F8; height: 50px;")
-                        p.mb-0.text-bold S - Sierra
-                      .br-15.text-center.align-content-center.mb-2(style="background-color: #E8F2F8; height: 50px;")
-                        p.mb-0.text-bold T - Tango
-                      .br-15.text-center.align-content-center.mb-2(style="background-color: #E8F2F8; height: 50px;")
-                        p.mb-0.text-bold U - <i>Uniform</i>
-                      .br-15.text-center.align-content-center.mb-2(style="background-color: #E8F2F8; height: 50px;")
-                        p.mb-0.text-bold V - Víctor
-                      .br-15.text-center.align-content-center.mb-2(style="background-color: #E8F2F8; height: 50px;")
-                        p.mb-0.text-bold W - <i>Whiskey</i>
-                      .br-15.text-center.align-content-center.mb-2(style="background-color: #E8F2F8; height: 50px;")
-                        p.mb-0.text-bold X - <i>X-Ray</i>
+                  .col-6.col-md-4.col-lg.mb-2
+                    .br-15.text-center.align-content-center.mb-2(style="background-color: #E8F2F8; height: 50px;")
+                      p.mb-0.text-bold S - Sierra
+                    .br-15.text-center.align-content-center.mb-2(style="background-color: #E8F2F8; height: 50px;")
+                      p.mb-0.text-bold T - Tango
+                    .br-15.text-center.align-content-center.mb-2(style="background-color: #E8F2F8; height: 50px;")
+                      p.mb-0.text-bold U - <i>Uniform</i>
+                    .br-15.text-center.align-content-center.mb-2(style="background-color: #E8F2F8; height: 50px;")
+                      p.mb-0.text-bold V - Víctor
+                    .br-15.text-center.align-content-center.mb-2(style="background-color: #E8F2F8; height: 50px;")
+                      p.mb-0.text-bold W - <i>Whiskey</i>
+                    .br-15.text-center.align-content-center.mb-2(style="background-color: #E8F2F8; height: 50px;")
+                      p.mb-0.text-bold X - <i>X-Ray</i>
 
-                    .col-6.col-md-4.col-lg.mb-2
-                      .br-15.text-center.align-content-center.mb-2(style="background-color: #F5ECE4; height: 50px;")
-                        p.mb-0.text-bold Y - <i>Yankee</i>
-                      .br-15.text-center.align-content-center.mb-2(style="background-color: #F5ECE4; height: 50px;")
-                        p.mb-0.text-bold Z - <i>Zulu</i>
+                  .col-6.col-md-4.col-lg.mb-2
+                    .br-15.text-center.align-content-center.mb-2(style="background-color: #F5ECE4; height: 50px;")
+                      p.mb-0.text-bold Y - <i>Yankee</i>
+                    .br-15.text-center.align-content-center.mb-2(style="background-color: #F5ECE4; height: 50px;")
+                      p.mb-0.text-bold Z - <i>Zulu</i>
 
-                .tarjeta.bg-white.p-4.h-100
-                  h4.mb-3 Ejemplo práctico
-                  p.mb-3 Código de reserva: <b>BCF-204</b>
-                  p.mb-3 Comunicación telefónica:
-                    ul.mb-3
-                      li 
-                        i.lista-ul__vineta
-                        | Bravo
-                      li 
-                        i.lista-ul__vineta
-                        | Charlie
-                      li 
-                        i.lista-ul__vineta
-                        | Foxtrot
-                      li 
-                        i.lista-ul__vineta
-                        | Dos
-                      li 
-                        i.lista-ul__vineta
-                        | Cero
-                      li 
-                        i.lista-ul__vineta
-                        | Cuatro
-                  p.mb-0 Este procedimiento facilita que la información sea comprendida correctamente por el receptor, especialmente en comunicaciones internacionales o en entornos con alto flujo operativo.
+              .tarjeta.bg-white.p-4.h-100
+                h4.mb-3 Ejemplo práctico
+                p.mb-3 Código de reserva: <b>BCF-204</b>
+                p.mb-3 Comunicación telefónica:
+                  ul.mb-3
+                    li 
+                      i.lista-ul__vineta
+                      | Bravo
+                    li 
+                      i.lista-ul__vineta
+                      | Charlie
+                    li 
+                      i.lista-ul__vineta
+                      | Foxtrot
+                    li 
+                      i.lista-ul__vineta
+                      | Dos
+                    li 
+                      i.lista-ul__vineta
+                      | Cero
+                    li 
+                      i.lista-ul__vineta
+                      | Cuatro
+                p.mb-0 Este procedimiento facilita que la información sea comprendida correctamente por el receptor, especialmente en comunicaciones internacionales o en entornos con alto flujo operativo.
 
     .container
       .titulo-con-imagen.mb-5(data-aos="fade-right")
