@@ -193,7 +193,7 @@
       .col-12.col-lg-12
         .titulo-sexto.color-acento-contenido.mb-4
           h5 
-            b Tabla 1.
+            b zzz 1.
           span Cuadro comparativo: ventajas y desventajas de los canales de reserva
         .tabla-a.color-acento-contenido 
           table
@@ -205,25 +205,25 @@
                 th Desventajas
             tbody
               tr
-                td Comunicación.
-                td Facilita el contacto inmediato con el cliente.
-                td Requiere atención permanente y rápida respuesta.
+                td Comunicación
+                td Facilita el contacto inmediato con el cliente
+                td Requiere atención permanente y rápida respuesta
               tr
-                td Comercialización.
-                td Amplía el alcance y visibilidad del hotel.
-                td Incrementa la competencia entre establecimientos.
+                td Comercialización
+                td Amplía el alcance y visibilidad del hotel
+                td Incrementa la competencia entre establecimientos
               tr
-                td Reservas en línea.
-                td Mayor facilidad y acceso global.
-                td Dependencia de plataformas digitales.
+                td Reservas en línea
+                td Mayor facilidad y acceso global
+                td Dependencia de plataformas digitales
               tr
-                td OTA y agencias.
-                td Alta capacidad de distribución.
-                td Pago de comisiones.
+                td OTA y agencias
+                td Alta capacidad de distribución
+                td Pago de comisiones
               tr
-                td Tarifas.
-                td Posibilidad de precios dinámicos.
-                td Mayor dificultad para controlar tarifas.
+                td Tarifas
+                td Posibilidad de precios dinámicos
+                td Mayor dificultad para controlar tarifas
 
 
     .bg-full-width.bg-fondo-3.tarjeta.mb-5

@@ -94,20 +94,20 @@
                 th Procedimiento
             tbody
               tr
-                td Solicitud.
-                td El cliente consulta disponibilidad.
+                td Solicitud
+                td El cliente consulta disponibilidad
               tr
-                td Registro.
-                td Se ingresan los datos en el sistema.
+                td Registro
+                td Se ingresan los datos en el sistema
               tr
-                td Confirmación.
-                td El hotel valida y confirma la reserva.
+                td Confirmación
+                td El hotel valida y confirma la reserva
               tr
-                td Seguimiento.
-                td Se gestionan cambios o requerimientos.
+                td Seguimiento
+                td Se gestionan cambios o requerimientos
               tr
-                td Cierre.
-                td Finaliza la reserva con <em>check-out</em> o cancelación.
+                td Cierre
+                td Finaliza la reserva con <em>check-out</em> o cancelación
 
     separador
     

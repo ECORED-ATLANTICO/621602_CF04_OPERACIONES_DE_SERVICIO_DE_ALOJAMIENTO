@@ -240,17 +240,17 @@
                 th.tabla3 Anulación
             tbody
               tr
-                td.tabla3 La reserva existía y era válida.
-                td.tabla3 La reserva presenta errores o inconsistencias.
+                td.tabla3 La reserva existía y era válida
+                td.tabla3 La reserva presenta errores o inconsistencias
               tr
-                td.tabla3 Puede generar penalidad.
-                td.tabla3 Generalmente no genera cobros.
+                td.tabla3 Puede generar penalidad
+                td.tabla3 Generalmente no genera cobros
               tr
-                td.tabla3 La solicita el cliente o el hotel.
-                td.tabla3 Normalmente es un ajuste administrativo.
+                td.tabla3 La solicita el cliente o el hotel
+                td.tabla3 Normalmente es un ajuste administrativo
               tr
-                td.tabla3 Afecta políticas de reserva.
-                td.tabla3 Corrige errores del sistema.
+                td.tabla3 Afecta políticas de reserva
+                td.tabla3 Corrige errores del sistema
 
     .row.mb-0.justify-content-center.align-items-center
       .col-lg-2.mb-4.mb-lg-0.col-md-8
