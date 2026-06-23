@@ -166,36 +166,36 @@
             tbody
               tr
                 td Ocupación hotelera
-                td Permite maximizar la ocupación del hotel y reducir habitaciones vacías
-                td Puede generar sobreocupación si todos los huéspedes se presentan
+                td Permite maximizar la ocupación del hotel y reducir habitaciones vacías.
+                td Puede generar sobreocupación si todos los huéspedes se presentan.
               tr
                 td Rentabilidad.
-                td Incrementa los ingresos del establecimiento al compensar cancelaciones y #[i <em>no show</em>]
-                td Puede generar costos adicionales por reubicación de huéspedes
+                td Incrementa los ingresos del establecimiento al compensar cancelaciones y #[i <em>no show</em>].
+                td Puede generar costos adicionales por reubicación de huéspedes.
               tr
                 td Gestión de reservas.
-                td Optimiza el aprovechamiento de la disponibilidad mediante proyecciones de demanda
-                td Requiere análisis constante y control preciso de las reservas
+                td Optimiza el aprovechamiento de la disponibilidad mediante proyecciones de demanda.
+                td Requiere análisis constante y control preciso de las reservas.
               tr
                 td Servicio al cliente.
-                td Bien administrado, evita pérdidas de ventas por cancelaciones inesperadas
-                td Una mala gestión afecta la satisfacción y experiencia del huésped
+                td Bien administrado, evita pérdidas de ventas por cancelaciones inesperadas.
+                td Una mala gestión afecta la satisfacción y experiencia del huésped.
               tr
                 td Imagen del hotel.
-                td Puede fortalecer la competitividad y eficiencia operativa
-                td El exceso de sobreventa puede afectar la reputación del establecimiento
+                td Puede fortalecer la competitividad y eficiencia operativa.
+                td El exceso de sobreventa puede afectar la reputación del establecimiento.
               tr
                 td Operación hotelera.
-                td Facilita estrategias de #[i revenue management] y control de ocupación
-                td Incrementa la presión operativa sobre recepción y reservas
+                td Facilita estrategias de #[i revenue management] y control de ocupación.
+                td Incrementa la presión operativa sobre recepción y reservas.
               tr
                 td Planeación.
-                td Permite prever comportamientos históricos de cancelación y no presentación
-                td Un error en el pronóstico puede generar conflictos operativos
+                td Permite prever comportamientos históricos de cancelación y no presentación.
+                td Un error en el pronóstico puede generar conflictos operativos.
               tr
                 td Relación con el cliente.
-                td Posibilita mantener altos niveles de ocupación en temporadas de alta demanda
-                td Puede ocasionar reclamaciones, compensaciones o pérdida de fidelización
+                td Posibilita mantener altos niveles de ocupación en temporadas de alta demanda.
+                td Puede ocasionar reclamaciones, compensaciones o pérdida de fidelización.
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12

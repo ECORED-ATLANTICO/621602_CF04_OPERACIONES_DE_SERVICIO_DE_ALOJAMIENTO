@@ -193,7 +193,7 @@
       .col-12.col-lg-12
         .titulo-sexto.color-acento-contenido.mb-4
           h5 
-            b zzz 1.
+            b Tabla 1.
           span Cuadro comparativo: ventajas y desventajas de los canales de reserva
         .tabla-a.color-acento-contenido 
           table
@@ -206,24 +206,24 @@
             tbody
               tr
                 td Comunicación
-                td Facilita el contacto inmediato con el cliente
-                td Requiere atención permanente y rápida respuesta
+                td Facilita el contacto inmediato con el cliente.
+                td Requiere atención permanente y rápida respuesta.
               tr
                 td Comercialización
-                td Amplía el alcance y visibilidad del hotel
-                td Incrementa la competencia entre establecimientos
+                td Amplía el alcance y visibilidad del hotel.
+                td Incrementa la competencia entre establecimientos.
               tr
                 td Reservas en línea
-                td Mayor facilidad y acceso global
-                td Dependencia de plataformas digitales
+                td Mayor facilidad y acceso global.
+                td Dependencia de plataformas digitales.
               tr
                 td OTA y agencias
-                td Alta capacidad de distribución
-                td Pago de comisiones
+                td Alta capacidad de distribución.
+                td Pago de comisiones.
               tr
                 td Tarifas
-                td Posibilidad de precios dinámicos
-                td Mayor dificultad para controlar tarifas
+                td Posibilidad de precios dinámicos.
+                td Mayor dificultad para controlar tarifas.
 
 
     .bg-full-width.bg-fondo-3.tarjeta.mb-5
@@ -391,48 +391,48 @@
             tbody
               tr
                 td INQ
-                td <em>Inquiry</em> (consulta).
-                td Solicitud inicial de información.
+                td <em>Inquiry</em> (consulta)
+                td Solicitud inicial de información
               tr
                 td TEN
-                td Tentativa.
-                td Reserva provisional.
+                td Tentativa
+                td Reserva provisional
               tr
                 td DEF
-                td Definitiva.
-                td Reserva confirmada.
+                td Definitiva
+                td Reserva confirmada
               tr
                 td CC
-                td Garantizada con tarjeta de crédito.
-                td Reserva con respaldo económico.
+                td Garantizada con tarjeta de crédito
+                td Reserva con respaldo económico
               tr
                 td COM
-                td Garantizada por compañía.
-                td Reserva corporativa garantizada.
+                td Garantizada por compañía
+                td Reserva corporativa garantizada
               tr
                 td PEN
-                td Pendiente.
-                td Información incompleta o en proceso.
+                td Pendiente
+                td Información incompleta o en proceso
               tr
                 td CXL
-                td Cancelada.
-                td Reserva anulada.
+                td Cancelada
+                td Reserva anulada
               tr
                 td NS
-                td <em>No show</em>.
-                td Cliente no se presentó.
+                td <em>No show</em>
+                td Cliente no se presentó
               tr
                 td WAIT
-                td Lista de espera.
-                td Pendiente por disponibilidad.
+                td Lista de espera
+                td Pendiente por disponibilidad
               tr
                 td 4PM
-                td Mantener hasta las 4:00 p. m.
-                td Hora límite de garantía.
+                td Mantener hasta las 4:00 p. m
+                td Hora límite de garantía
               tr
                 td 6PM
-                td Mantener hasta las 6:00 p. m.
-                td Hora límite extendida.
+                td Mantener hasta las 6:00 p. m
+                td Hora límite extendida
               
     .container
       .titulo-con-imagen.mb-5(data-aos="fade-right")
