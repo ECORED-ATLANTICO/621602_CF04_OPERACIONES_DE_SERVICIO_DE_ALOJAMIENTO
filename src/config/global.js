@@ -307,7 +307,7 @@ export default {
         'Porcentaje de habitaciones vendidas respecto al total disponible.',
     },
     {
-      termino: 'OTA (Online Travel Agency)',
+      termino: 'OTA <em>(Online Travel Agency)</em>',
       significado:
         'Agencia de viajes online que comercializa servicios turísticos y hoteleros.',
     },
@@ -317,7 +317,7 @@ export default {
         'Venta de habitaciones por encima de la disponibilidad real del hotel.',
     },
     {
-      termino: 'PMS (Property Management System)',
+      termino: 'PMS <em>(Property Management System)</em>',
       significado:
         'Sistema informático utilizado para gestionar operaciones hoteleras y reservas.',
     },

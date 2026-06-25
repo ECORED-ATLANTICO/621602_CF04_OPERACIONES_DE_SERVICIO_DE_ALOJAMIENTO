@@ -152,7 +152,7 @@
             p.mb-0 Con la aparición de las agencias de viajes en línea (OTA) en el final de los años noventa, estas entidades empezaron a desaparecer. Hoy día se mantienen algunas que se dedican más al sector corporativo y al segmento <i>tour and travel</i>, donde la organización de viajes es imperativa. Algunos ejemplos son: Aviatur, Viajar Ltda.
             
           .tarjeta.color-acento-botones--borde.p-4.align-content-center(titulo="Agencias de viajes en línea (OTA)")
-            p.mb-0 Son plataformas web dedicadas a la comercialización de servicios turísticos y hoteleros. Representan la evolución digital de las agencias tradicionales y dominan gran parte del mercado gracias a fuertes inversiones en marketing. Ejemplo: Booking.com.
+            p.mb-0 Son plataformas web dedicadas a la comercialización de servicios turísticos y hoteleros. Representan la evolución digital de las agencias tradicionales y dominan gran parte del mercado gracias a fuertes inversiones en <em>marketing.</em> Ejemplo: Booking.com.
 
           .tarjeta.color-acento-botones--borde.p-4.align-content-center(titulo="Bancos de camas")
             p.mb-0 Operan como mayoristas turísticos, negociando grandes volúmenes de servicios con proveedores como hoteles, transportes, excursiones y eventos. Posteriormente, redistribuyen esta oferta a agencias de viajes. Ejemplo: Hotelbeds.
@@ -338,7 +338,7 @@
             .col-lg-auto.d-none.d-lg-flex
               img(src="@/assets/curso/tema1/img30.svg").mx-auto
             .col-lg
-              p.mb-0 Finalmente, se llega al cierre, etapa en la que las partes seleccionan una de las alternativas planteadas y formalizan el acuerdo. Este momento implica el compromiso de cumplir lo pactado, por lo que debe asegurarse que las condiciones sean claras, realistas y aceptadas por ambas partes. Un cierre adecuado contribuye a fortalecer la confianza y a consolidar la relación con el cliente.
+              p.mb-0 Cada tipo de reserva implica condiciones específicas relacionadas con disponibilidad, garantías, políticas y niveles de servicio, por lo que su correcta identificación facilita el control de la ocupación y mejora la gestión operativa del área de reservas. En este sentido, el conocimiento de las diferentes modalidades de reserva constituye una competencia fundamental para el personal encargado de la comercialización y administración de los servicios de alojamiento.
 
 
     separador
@@ -349,7 +349,7 @@
     .container
       .row.justify-content-center.align-items-center.mb-5.bg-color-9(data-aos="fade-right")
         .col-lg-7.p-4.order-2.order-lg-1
-          p.mb-0 La codificación de reservas corresponde al conjunto de códigos, siglas y convenciones utilizados en los sistemas de gestión hotelera para registrar, identificar y controlar la información relacionada con las reservaciones. Debido al alto volumen de operaciones que manejan los establecimientos de alojamiento y al uso de plataformas tecnológicas como los PMS (Property Management System), resulta necesario emplear códigos estandarizados que permitan agilizar los procesos operativos, facilitar la comunicación interna y reducir errores en la gestión de la información.
+          p.mb-0 La codificación de reservas corresponde al conjunto de códigos, siglas y convenciones utilizados en los sistemas de gestión hotelera para registrar, identificar y controlar la información relacionada con las reservaciones. Debido al alto volumen de operaciones que manejan los establecimientos de alojamiento y al uso de plataformas tecnológicas como los PMS <em>(Property Management System)</em>, resulta necesario emplear códigos estandarizados que permitan agilizar los procesos operativos, facilitar la comunicación interna y reducir errores en la gestión de la información.
         .col-lg-5.p-0.order-1.order-lg-2
           img(src="@/assets/curso/tema1/img32.png")
 
@@ -447,7 +447,7 @@
           img(src="@/assets/curso/tema1/img35.png", data-aos="zoom-in")
       .col-lg-9.col-md-12
         p.mb-3(data-aos="fade-right") El uso de códigos permite agilizar la operación del área de reservas y mejorar la interpretación de la información dentro del sistema hotelero. Gracias a estas convenciones, el personal puede identificar rápidamente el estado de una reserva y tomar decisiones relacionadas con disponibilidad, tarifas, confirmaciones o cancelaciones.
-        p.mb-0 Por ejemplo, cuando el sistema registra una reserva con código “NS”, el personal identifica inmediatamente que el huésped no se presentó, permitiendo liberar la habitación o aplicar las políticas correspondientes. De igual forma, los códigos “WAIT” o “TEN” facilitan el control de solicitudes pendientes y reservas provisionales.
+        p.mb-0 Por ejemplo, cuando el sistema registra una reserva con código “NS”, el personal identifica inmediatamente que el huésped no se presentó, permitiendo liberar la habitación o aplicar las políticas correspondientes. De igual forma, los códigos <em>“WAIT”</em> o “TEN” facilitan el control de solicitudes pendientes y reservas provisionales.
            
     .container
       .titulo-con-imagen.mb-5(data-aos="fade-right")
@@ -480,7 +480,7 @@
                     .br-15.text-center.align-content-center.mb-2(style="background-color: #E8F2F8; height: 50px;")
                       p.mb-0.text-bold B - Bravo
                     .br-15.text-center.align-content-center.mb-2(style="background-color: #E8F2F8; height: 50px;")
-                      p.mb-0.text-bold C - <i>Charlie</i>
+                      p.mb-0.text-bold C - Charlie
                     .br-15.text-center.align-content-center.mb-2(style="background-color: #E8F2F8; height: 50px;")
                       p.mb-0.text-bold D - Delta
                     .br-15.text-center.align-content-center.mb-2(style="background-color: #E8F2F8; height: 50px;")

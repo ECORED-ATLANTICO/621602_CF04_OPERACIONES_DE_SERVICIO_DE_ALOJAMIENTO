@@ -200,7 +200,7 @@
                   | Política de garantía.
                 li
                   i.lista-ul__vineta
-                  | Política de <em>no show</em>.
+                  | Política de&nbsp; <em>no show</em>.
                 li
                   i.lista-ul__vineta
                   | Política de mascotas.

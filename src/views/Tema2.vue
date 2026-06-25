@@ -54,13 +54,8 @@
       )
       .bloque-texto-g__texto.p-4
         p.mb-3 La <em>waiting list</em> o lista de espera es una herramienta utilizada cuando el hotel no cuenta con disponibilidad inmediata de habitaciones, pero registra las solicitudes de clientes interesados ante posibles cancelaciones o modificaciones de reservas existentes.
-        p.mb-0 Este procedimiento permite mantener oportunidades de venta y facilita la reorganización de la ocupación cuando se liberan habitaciones. Las listas de espera suelen organizarse según orden de solicitud, tipo de cliente o prioridad comercial.
 
-    .row.justify-content-center.align-items-center.mb-5
-      .col-lg-10
-        .cajon.bg-color-74.p-4
-          p.mb-0 La adecuada gestión de la <em>waiting list</em> contribuye a maximizar la ocupación y mantener comunicación con clientes potenciales, evitando pérdidas de ingresos por habitaciones vacías.
-
+    
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12
         .titulo-sexto.color-acento-contenido.mb-4
@@ -68,6 +63,16 @@
           span Lista de espera o <em>waiting list</em> en <em>software</em> hotelero
         img(data-aos="fade-down", src="@/assets/curso/tema2/img07.png", alt="La figura 2 presenta una sección de la waiting list o lista de espera, herramienta que permite al hotel registrar las solicitudes de clientes potenciales interesados en acceder a los servicios de alojamiento en caso de que se liberen cupos en las reservas existentes.").mx-auto
         figcaption Nota. ORACLE, (2026).
+
+    
+      
+    
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-10
+        p.mb-5 Este procedimiento permite mantener oportunidades de venta y facilita la reorganización de la ocupación cuando se liberan habitaciones. Las listas de espera suelen organizarse según orden de solicitud, tipo de cliente o prioridad comercial.
+
+        .cajon.bg-color-74.p-4
+          p.mb-0 La adecuada gestión de la <em>waiting list</em> contribuye a maximizar la ocupación y mantener comunicación con clientes potenciales, evitando pérdidas de ingresos por habitaciones vacías.
 
     separador
 
@@ -81,6 +86,15 @@
       .col-lg-9
         p.mb-3(data-aos="fade-right") El <em>forecasting</em> corresponde al pronóstico o estimación de ocupación hotelera basado en el análisis de reservas actuales, comportamiento histórico de la demanda, temporadas y tendencias del mercado. Esta herramienta permite anticipar niveles de ocupación y planificar estrategias comerciales y operativas.
         p.mb-0 Este proceso se basa en la analítica de datos que es esencia permite calcular para una fecha futura el estimado de la demanda, de esta forma el establecimiento hotelero puede determinar casi que con esa actitud la ocupación que tendrá en una fecha futura.
+
+        
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-12
+        .titulo-sexto.color-acento-contenido.mb-4
+          h5.text-bold Figura 3.
+          span Análisis del pronóstico de ocupación en <em>software</em> hotelero
+        img(data-aos="fade-down", src="@/assets/curso/tema2/img10.png", alt="La figura 3 registra el detalle de un panel de control hotelero con indicadores de ocupación, reservas, habitaciones disponibles, gráficos de distribución y estado de habitaciones que facilitan el análisis adecuado para el pronóstico de la ocupación del establecimiento hotelero.").mx-auto
+        figcaption Nota. SENA, (2026).
 
     .row.justify-content-center.align-items-center.mb-5
       .col-12.col-lg-7.col-md-12.mb-4.mb-lg-0
@@ -118,14 +132,8 @@
             img(src="@/assets/curso/tema2/img09.svg", style="max-width: 100px")
           .col-lg
             p.mb-0 El <em>forecasting</em> es fundamental para la toma de decisiones relacionadas con tarifas, promociones, personal operativo y disponibilidad de habitaciones. Según la Organización Mundial del Turismo (OMT, 2008), el análisis de datos y proyecciones de demanda constituye una práctica clave para la sostenibilidad y competitividad de los establecimientos turísticos.
-            
-    .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12
-        .titulo-sexto.color-acento-contenido.mb-4
-          h5.text-bold Figura 3.
-          span Análisis del pronóstico de ocupación en <em>software</em> hotelero
-        img(data-aos="fade-down", src="@/assets/curso/tema2/img10.png", alt="La figura 3 registra el detalle de un panel de control hotelero con indicadores de ocupación, reservas, habitaciones disponibles, gráficos de distribución y estado de habitaciones que facilitan el análisis adecuado para el pronóstico de la ocupación del establecimiento hotelero.").mx-auto
-        figcaption Nota. SENA, (2026).
+        
+
 
 
     separador

@@ -127,6 +127,16 @@
               i.lista-ul__vineta
               | Cambios en forma de pago.
 
+    
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-12
+        .titulo-sexto.color-acento-contenido.mb-4
+          h5.text-bold Figura 4.
+          span Modificación de reservas en <em>software</em> hotelero PMS
+        img(data-aos="fade-down", src="@/assets/curso/tema3/img10.png", alt="La figura 4 detalla la interfaz del sistema PMS para la modificación de reservas hoteleras. El administrador visualiza la información del huésped y actualiza datos de la reserva, como fechas de estadía, número de noches y tipo de habitación, mientras el sistema calcula automáticamente los cambios en la tarifa y el valor total de la reserva.").mx-auto
+        figcaption Nota. SENA, (2026).
+    
+    
     .bg-full-width.bg-fondo-3.px-5.py-4.mb-3
       .container(data-aos="fade-right")
         .tarjeta.tarjeta--blanca.row.justify-content-center.align-items-center.mb-0.p-4
@@ -136,14 +146,6 @@
 
           .col-lg-3.col-md-6.order-1.order-lg-2.mb-4.mb-lg-0
             img(src="@/assets/curso/tema3/img08.png", alt="").img-fluid
-
-    .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12
-        .titulo-sexto.color-acento-contenido.mb-4
-          h5.text-bold Figura 4.
-          span Modificación de reservas en <em>software</em> hotelero PMS
-        img(data-aos="fade-down", src="@/assets/curso/tema3/img10.png", alt="La figura 4 detalla la interfaz del sistema PMS para la modificación de reservas hoteleras. El administrador visualiza la información del huésped y actualiza datos de la reserva, como fechas de estadía, número de noches y tipo de habitación, mientras el sistema calcula automáticamente los cambios en la tarifa y el valor total de la reserva.").mx-auto
-        figcaption Nota. SENA, (2026).
 
 
     separador
