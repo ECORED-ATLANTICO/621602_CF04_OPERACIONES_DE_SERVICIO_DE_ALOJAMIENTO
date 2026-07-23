@@ -358,28 +358,27 @@ export default {
   referencias: [
     {
       referencia:
-        'Álvarez, E. A. (2021, enero 7). <em>Recepción y reservas. Unidad de trabajo 6</em>. [Web log post]. Emilio Alonso Álvarez - Blog Profesional. https://emilioalonsoalvarez.files.wordpress.com/2012/10/ut6-reservas.pdf',
+        'Álvarez, E. A. (2021, enero 7). <em>Recepción y reservas. Unidad de trabajo 6</em>. [Web log post]. Emilio Alonso Álvarez - Blog Profesional.',
       link:
         'https://emilioalonsoalvarez.files.wordpress.com/2012/10/ut6-reservas.pdf',
     },
     {
       referencia:
-        'Ateortua, K. S. [ksateortua]. (2013, noviembre, 13). <em>Reserva hotelera</em> [Presentación]. Slideshare. https://es.slideshare.net/ksateortua/421-reserva-de-hotel',
+        'Ateortua, K. S. [ksateortua]. (2013, noviembre, 13). <em>Reserva hotelera</em> [Presentación]. Slideshare.',
       link: 'https://es.slideshare.net/ksateortua/421-reserva-de-hotel',
     },
     {
       referencia:
-        'Duran, W. (2018, mayo , 9). <em>Tarifas dinámicas en hoteles, tendencia que ya existe en los viajes de negocios</em>. [Publicación en perfil]. Linkedin.',
+        'Duran, W. (2018, mayo, 9). <em>Tarifas dinámicas en hoteles, tendencia que ya existe en los viajes de negocios</em>. [Publicación en perfil]. Linkedin.',
     },
     {
       referencia:
-        'eZee Technosys Pvt. Ltd. (s.f) <em>How to Assign Bookings/Rooms in eZee Absolute</em> https://help.ezeetechnosys.com/how-to-assign-bookings-rooms-in-ezee-absolute/',
-      link:
-        'https://help.ezeetechnosys.com/how-to-assign-bookings-rooms-in-ezee-absolute/',
+        'eZee Technosys Pvt. Ltd. (s.f) <em>How to Assign Bookings/Rooms in eZee Absolute</em>. [Video].',
+      link: 'https://www.youtube.com/watch?v=Mayp7yo-g0s&t=3s',
     },
     {
       referencia:
-        'Hytar. (2013) <em>Código de aeropuertos de OACI</em>. Wikipedia. https://es.wikipedia.org/wiki/C%C3%B3digo_de_aeropuertos_de_OACI#/media/Archivo:ICAO_FirstLetter.svg',
+        'Hytar. (2013) <em>Código de aeropuertos de OACI</em>. Wikipedia.',
       link:
         'https://es.wikipedia.org/wiki/C%C3%B3digo_de_aeropuertos_de_OACI#/media/Archivo:ICAO_FirstLetter.svg',
     },
@@ -393,7 +392,7 @@ export default {
     },
     {
       referencia:
-        'Marrero, F. J. (2016, Noviembre 1). <em>Glosario de términos hoteleros, turísticos y relacionados</em>. Obtenido de Hosteltur: https://www.hosteltur.com/files/web/templates/term/wikitur.pdf',
+        'Marrero, F. J. (2016, Noviembre 1). <em>Glosario de términos hoteleros, turísticos y relacionados</em>. Obtenido de Hosteltur.',
       link: 'https://www.hosteltur.com/files/web/templates/term/wikitur.pdf',
     },
     {
@@ -402,15 +401,15 @@ export default {
     },
     {
       referencia:
-        'Oracle Corporation. (s.f.). <em>Group <em>Rooming List</em></em>. oracle.com https://docs.oracle.com/cd/E53547_01/opera_5_04_03_core_help/grprmlist_help.htm',
+        'Oracle Corporation. (s.f.). <em>Group <em>Rooming List</em></em>. oracle.com',
       link:
         'https://docs.oracle.com/cd/E53547_01/opera_5_04_03_core_help/grprmlist_help.htm',
     },
     {
       referencia:
-        'Oracle Corporation. (s.f.). <em>Waitlist Screen</em>. oracle.com https://docs.oracle.com/cd/E98457_01/opera_5_6_core_help/<em>waitlist</em>_options.htm',
+        'Oracle Corporation. (s.f.). <em>Waitlist Screen</em>. oracle.com',
       link:
-        'https://docs.oracle.com/cd/E98457_01/opera_5_6_core_help/<em>waitlist</em>_options.htm',
+        'https://docs.oracle.com/cd/E98457_01/opera_5_6_core_help/waitlist_options.htm',
     },
     {
       referencia:
@@ -418,7 +417,7 @@ export default {
     },
     {
       referencia:
-        'Unknown. (2015, diciembre 17). <em>Códigos IATA</em>. [Web log post]. Agencia de Viajes I. http://av1germainebatson.blogspot.com/2015/12/codigos-iata.html',
+        'Códigos IATA. (17 de diciembre de 2015). <em>Códigos IATA</em>. [Web log post]. Agencia de Viajes I.',
       link: 'http://av1germainebatson.blogspot.com/2015/12/codigos-iata.html',
     },
   ],
@@ -429,7 +428,7 @@ export default {
         {
           nombre: 'Claudia Johanna Gómez Pérez',
           cargo:
-            'Profesional 06. Responsable Ecosistema Virtual de Recursos Educativos Digitales',
+            'Responsable Nacional Ecosistema de Recursos Educativos Digitales (RED) - Profesional 06',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
@@ -445,7 +444,8 @@ export default {
         {
           nombre: 'Amparo Virginia Moreno Cantero',
           cargo: 'Experto temático',
-          centro: 'Centro de Servicios y Gestión Empresarial',
+          centro:
+            'Centro de Servicios y Gestión Empresarial – Regional Antioquia',
         },
         {
           nombre: 'Harbey Castelblanco',

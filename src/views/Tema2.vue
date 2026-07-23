@@ -43,6 +43,10 @@
         img(data-aos="fade-down", src="@/assets/curso/tema2/img05.png", alt="La figura 1 detalla una sección del formato utilizado en las reservas grupales o rooming list, en el cual se registran datos básicos de los huéspedes tales como, nombres, fecha de llegada y salida, tipo y número de habitaciones requeridas; para facilitar la logística  del hotel en la asignación de espacios, servicios y mejorra la atención al cliente.").mx-auto
         figcaption Nota. ORACLE, (2026).
 
+    .row.justify-content-center.mb-3
+      .col-lg-12
+        p.mb-0(data-aos="fade-down") La finalidad del <em>rooming list</em> es facilitar la organización operativa del hotel antes de la llegada del grupo, permitiendo coordinar procesos de <em>check-in</em>, asignación de habitaciones, alimentación y servicios complementarios. Además, este documento mejora la comunicación entre las áreas de reservas, recepción y <em>housekeeping</em>, optimizando la atención al cliente y reduciendo errores en la operación.
+        
     separador
 
     #t_2_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
@@ -85,7 +89,7 @@
           img(src="@/assets/curso/tema2/img08.png", data-aos="zoom-in")
       .col-lg-9
         p.mb-3(data-aos="fade-right") El <em>forecasting</em> corresponde al pronóstico o estimación de ocupación hotelera basado en el análisis de reservas actuales, comportamiento histórico de la demanda, temporadas y tendencias del mercado. Esta herramienta permite anticipar niveles de ocupación y planificar estrategias comerciales y operativas.
-        p.mb-0 Este proceso se basa en la analítica de datos que es esencia permite calcular para una fecha futura el estimado de la demanda, de esta forma el establecimiento hotelero puede determinar casi que con esa actitud la ocupación que tendrá en una fecha futura.
+        p.mb-0 Este proceso se basa en la analítica de datos que en esencia permite calcular para una fecha futura el estimado de la demanda, de esta forma el establecimiento hotelero puede determinar casi que con exactitud la ocupación que tendrá en una fecha futura.
 
         
     .row.justify-content-center.align-items-center.mb-5
@@ -162,15 +166,15 @@
         .titulo-sexto.color-acento-contenido.mb-4
           h5 
             b Tabla 4.
-          span Ventajas y riesgos del #[i <em>overbooking</em>]
+          span Ventajas y riesgos del <em>overbooking</em>
         .tabla-a.color-acento-contenido 
           table
             caption <span style="font-weight: normal">Nota. SENA, (2016).</span>
             thead
               tr
                 th Aspecto
-                th Ventajas del #[i <em>overbooking</em>]
-                th Riesgos del #[i <em>overbooking</em>]
+                th Ventajas del <em>overbooking</em>
+                th Riesgos del <em>overbooking</em>
             tbody
               tr
                 td Ocupación hotelera
@@ -178,7 +182,7 @@
                 td Puede generar sobreocupación si todos los huéspedes se presentan.
               tr
                 td Rentabilidad.
-                td Incrementa los ingresos del establecimiento al compensar cancelaciones y #[i <em>no show</em>].
+                td Incrementa los ingresos del establecimiento al compensar cancelaciones y <em>no show</em>.
                 td Puede generar costos adicionales por reubicación de huéspedes.
               tr
                 td Gestión de reservas.
@@ -194,7 +198,7 @@
                 td El exceso de sobreventa puede afectar la reputación del establecimiento.
               tr
                 td Operación hotelera.
-                td Facilita estrategias de #[i revenue management] y control de ocupación.
+                td Facilita estrategias de <em>revenue management</em> y control de ocupación.
                 td Incrementa la presión operativa sobre recepción y reservas.
               tr
                 td Planeación.

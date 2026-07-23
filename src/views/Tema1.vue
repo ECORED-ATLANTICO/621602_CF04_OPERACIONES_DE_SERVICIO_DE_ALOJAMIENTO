@@ -97,7 +97,7 @@
           .row.justify-content-center.align-items-center.p-4.p-lg-3
             .col-lg-7.mb-4.mb-lg-0
               h4 Página web
-              p.mb-0 La página web en los hoteles es la mejor forma de mostrar los productos y servicios, pero en esencia es la mejor herramienta de ventas que tiene el hotel. En las páginas web se integran aplicativos conocidos como motores de reserva (IBE), que además de mostrar información, permiten que a través de la web se pueda vender en tiempo real, 24 horas al día, 7 días a la semana y 365 días al año.
+              p.mb-0 La página web en los hoteles es la mejor forma de mostrar los productos y servicios, pero en esencia es la mejor herramienta de ventas que tiene el hotel. En las páginas web se integran aplicativos conocidos como motores de reserva (<em>IBE</em>), que además de mostrar información, permiten que a través de la web se pueda vender en tiempo real, 24 horas al día, 7 días a la semana y 365 días al año.
               
             .col-md-10.col-lg-5
               figure
@@ -105,8 +105,8 @@
 
           .row.justify-content-center.align-items-center.p-4.p-lg-3
             .col-lg-7.mb-4.mb-lg-0
-              h4 Mensajería y chatbots
-              p.mb-0 Casi siempre están asociadas a la página web o a las redes sociales, son aplicaciones que permiten un contacto rápido y directo con los clientes para resolver dudas, pero en la actualidad tienen gran capacidad de venta directa, un ejemplo es WhatsApp en su versión <i>business</i>.
+              h4 Mensajería y <em>chatbots</em>
+              p.mb-0 Casi siempre están asociadas a la página web o a las redes sociales, son aplicaciones que permiten un contacto rápido y directo con los clientes para resolver dudas, pero en la actualidad tienen gran capacidad de venta directa, un ejemplo es WhatsApp en su versión <em>business</em>.
               
             .col-md-10.col-lg-5
               figure
@@ -123,7 +123,7 @@
 
           .row.justify-content-center.align-items-center.p-4.p-lg-3
             .col-lg-7.mb-4.mb-lg-0
-              h4 Centrales de Reservas – CRS
+              h4 Centrales de Reservas – <em>CRS</em>
               p.mb-0 Las centrales de reservaciones son normalmente potestad de las grandes cadenas hoteleras que pueden concentrar una cuota de personal y tecnología para este fin. En los hoteles más pequeños e independientes, esta función se cubre en el departamento de teléfonos o recepción, haciendo muy importante el desempeño del personal de estas secciones.
               
             .col-md-10.col-lg-5
@@ -149,28 +149,28 @@
       .col-lg-8.order-lg-1
         TabsA.color-acento-botones()
           .tarjeta.color-acento-botones--borde.p-4.align-content-center(titulo="Agencias de viajes tradicionales")
-            p.mb-0 Con la aparición de las agencias de viajes en línea (OTA) en el final de los años noventa, estas entidades empezaron a desaparecer. Hoy día se mantienen algunas que se dedican más al sector corporativo y al segmento <i>tour and travel</i>, donde la organización de viajes es imperativa. Algunos ejemplos son: Aviatur, Viajar Ltda.
+            p.mb-0 Con la aparición de las agencias de viajes en línea (OTA) a finales de los años noventa, estas entidades empezaron a desaparecer. Hoy día se mantienen algunas que se dedican más al sector corporativo y al segmento <em>tour and travel</em>, donde la organización de viajes es imperativa. Algunos ejemplos son: Aviatur, Viajar Ltda.
             
           .tarjeta.color-acento-botones--borde.p-4.align-content-center(titulo="Agencias de viajes en línea (OTA)")
-            p.mb-0 Son plataformas web dedicadas a la comercialización de servicios turísticos y hoteleros. Representan la evolución digital de las agencias tradicionales y dominan gran parte del mercado gracias a fuertes inversiones en <em>marketing.</em> Ejemplo: Booking.com.
+            p.mb-0 Son plataformas web dedicadas a la comercialización de servicios turísticos y hoteleros. Representan la evolución digital de las agencias tradicionales y dominan gran parte del mercado gracias a fuertes inversiones en <em>marketing</em>. Ejemplo: Booking.com.
 
           .tarjeta.color-acento-botones--borde.p-4.align-content-center(titulo="Bancos de camas")
             p.mb-0 Operan como mayoristas turísticos, negociando grandes volúmenes de servicios con proveedores como hoteles, transportes, excursiones y eventos. Posteriormente, redistribuyen esta oferta a agencias de viajes. Ejemplo: Hotelbeds.
 
           .tarjeta.color-acento-botones--borde.p-4.align-content-center(titulo="Sistemas de distribución global (GDS)")
-            p.mb-0 Originados en la industria aérea, los GDS facilitan la comercialización de múltiples productos turísticos, como vuelos, hoteles, cruceros y alquiler de vehículos. Han evolucionado hacia plataformas digitales más eficientes y conectadas a internet. Ejemplo: Amadeus.
+            p.mb-0 Originados en la industria aérea, los <em>GDS</em> facilitan la comercialización de múltiples productos turísticos, como vuelos, hoteles, cruceros y alquiler de vehículos. Han evolucionado hacia plataformas digitales más eficientes y conectadas a internet. Ejemplo: Amadeus.
 
           .tarjeta.color-acento-botones--borde.p-4.align-content-center(titulo="Buscadores y metabuscadores")
-            p.mb-0 Son plataformas que comparan precios y monetizan a través de publicidad. Redirigen a los usuarios hacia las OTA para concretar la reserva. Ejemplo: Trivago.
+            p.mb-0 Son plataformas que comparan precios y monetizan a través de publicidad. Redirigen a los usuarios hacia las <em>OTA</em> para concretar la reserva. Ejemplo: Trivago.
 
           .tarjeta.color-acento-botones--borde.p-4.align-content-center(titulo="Sitios de reputación social")
             p.mb-0 Estas plataformas se centran en la gestión de comentarios y valoraciones de los usuarios, convirtiéndose en una fuente clave de información para la toma de decisiones y la generación de ventas. En el sector hotelero destaca Tripadvisor.
 
-          .tarjeta.color-acento-botones--borde.p-4.align-content-center(titulo="Vacation Rentals")
+          .tarjeta.color-acento-botones--borde.p-4.align-content-center(titulo="<em>Vacation Rentals</em>")
             p.mb-0 Surgieron como alternativa a los hoteles, permitiendo el alquiler de propiedades para estancias cortas a precios competitivos. Actualmente, además de competir, funcionan como aliados estratégicos en la comercialización de alojamiento. Ejemplo: Airbnb.
 
-          .tarjeta.color-acento-botones--borde.p-4.align-content-center(titulo="Blogs")
-            p.mb-0 Son sitios web independientes que generan contenido informativo y recomendaciones. Atraen tráfico orgánico que las marcas aprovechan mediante estrategias de marketing digital y <i>remarketing</i> para promocionar sus productos y servicios.
+          .tarjeta.color-acento-botones--borde.p-4.align-content-center(titulo="<em>Blogs</em>")
+            p.mb-0 Son sitios web independientes que generan contenido informativo y recomendaciones. Atraen tráfico orgánico que las marcas aprovechan mediante estrategias de <em>marketing</em> digital y <em>remarketing</em> para promocionar sus productos y servicios.
             
     .row.justify-content-center.align-items-center.mb-3
       .col-lg-12
@@ -217,7 +217,7 @@
                 td Mayor facilidad y acceso global.
                 td Dependencia de plataformas digitales.
               tr
-                td OTA y agencias
+                td <em>OTA</em> y agencias
                 td Alta capacidad de distribución.
                 td Pago de comisiones.
               tr
@@ -341,6 +341,21 @@
               p.mb-0 Cada tipo de reserva implica condiciones específicas relacionadas con disponibilidad, garantías, políticas y niveles de servicio, por lo que su correcta identificación facilita el control de la ocupación y mejora la gestión operativa del área de reservas. En este sentido, el conocimiento de las diferentes modalidades de reserva constituye una competencia fundamental para el personal encargado de la comercialización y administración de los servicios de alojamiento.
 
 
+    .row.justify-content-center.align-items-center.mb-4
+      .col-lg-10
+        .bg-color-1-degrade.p-3.mb-0.rounded-2.br-15.align-items-center
+          .row.justify-content-center.align-items-center
+            .col-lg-10.col-md-12.mb-4.mb-lg-0
+              .row.align-items-center.mb-0
+                .col-lg-auto.mb-4.mb-lg-0
+                  img(src="@/assets/curso/tema1/img06.svg", style="max-width: 100px;").mx-auto
+                .col-lg
+                  p.mb-0 Para profundizar en los diferentes tipos de reservas hoteleras, lo invitamos a consultar el siguiente video:
+            .col-lg-2.col-md-12(style="text-align: center !important;")
+              a.boton.color-acento-botones(href="https://youtu.be/WhV3jC4u880" target="_blank", style="text-align: center !important;")
+                span Consultar video
+                i.fas.fa-play
+
     separador
     
     #t_1_5.titulo-segundo.color-acento-contenido(data-aos="flip-up")
@@ -447,7 +462,7 @@
           img(src="@/assets/curso/tema1/img35.png", data-aos="zoom-in")
       .col-lg-9.col-md-12
         p.mb-3(data-aos="fade-right") El uso de códigos permite agilizar la operación del área de reservas y mejorar la interpretación de la información dentro del sistema hotelero. Gracias a estas convenciones, el personal puede identificar rápidamente el estado de una reserva y tomar decisiones relacionadas con disponibilidad, tarifas, confirmaciones o cancelaciones.
-        p.mb-0 Por ejemplo, cuando el sistema registra una reserva con código “NS”, el personal identifica inmediatamente que el huésped no se presentó, permitiendo liberar la habitación o aplicar las políticas correspondientes. De igual forma, los códigos <em>“WAIT”</em> o “TEN” facilitan el control de solicitudes pendientes y reservas provisionales.
+        p.mb-0 Por ejemplo, cuando el sistema registra una reserva con código <em>“NS”</em>, el personal identifica inmediatamente que el huésped no se presentó, permitiendo liberar la habitación o aplicar las políticas correspondientes. De igual forma, los códigos <em>“WAIT”</em> o <em>“TEN”</em> facilitan el control de solicitudes pendientes y reservas provisionales.
            
     .container
       .titulo-con-imagen.mb-5(data-aos="fade-right")
@@ -486,7 +501,7 @@
                     .br-15.text-center.align-content-center.mb-2(style="background-color: #E8F2F8; height: 50px;")
                       p.mb-0.text-bold E - Eco
                     .br-15.text-center.align-content-center.mb-2(style="background-color: #E8F2F8; height: 50px;")
-                      p.mb-0.text-bold F - <i>Foxtrot</i>
+                      p.mb-0.text-bold F - <em>Foxtrot</em>
                   
                   .col-6.col-md-4.col-lg.mb-2
                     .br-15.text-center.align-content-center.mb-2(style="background-color: #E5E9D3; height: 50px;")
@@ -506,7 +521,7 @@
                     .br-15.text-center.align-content-center.mb-2(style="background-color: #F5ECE4; height: 50px;")
                       p.mb-0.text-bold M - Mike
                     .br-15.text-center.align-content-center.mb-2(style="background-color: #F5ECE4; height: 50px;")
-                      p.mb-0.text-bold N - <i>November</i>
+                      p.mb-0.text-bold N - <em>November</em>
                     .br-15.text-center.align-content-center.mb-2(style="background-color: #F5ECE4; height: 50px;")
                       p.mb-0.text-bold O - Oscar
                     .br-15.text-center.align-content-center.mb-2(style="background-color: #F5ECE4; height: 50px;")
@@ -522,19 +537,19 @@
                     .br-15.text-center.align-content-center.mb-2(style="background-color: #E8F2F8; height: 50px;")
                       p.mb-0.text-bold T - Tango
                     .br-15.text-center.align-content-center.mb-2(style="background-color: #E8F2F8; height: 50px;")
-                      p.mb-0.text-bold U - <i>Uniform</i>
+                      p.mb-0.text-bold U - <em>Uniform</em>
                     .br-15.text-center.align-content-center.mb-2(style="background-color: #E8F2F8; height: 50px;")
                       p.mb-0.text-bold V - Víctor
                     .br-15.text-center.align-content-center.mb-2(style="background-color: #E8F2F8; height: 50px;")
-                      p.mb-0.text-bold W - <i>Whiskey</i>
+                      p.mb-0.text-bold W - <em>Whiskey</em>
                     .br-15.text-center.align-content-center.mb-2(style="background-color: #E8F2F8; height: 50px;")
-                      p.mb-0.text-bold X - <i>X-Ray</i>
+                      p.mb-0.text-bold X - <em>X-Ray</em>
 
                   .col-6.col-md-4.col-lg.mb-2
                     .br-15.text-center.align-content-center.mb-2(style="background-color: #F5ECE4; height: 50px;")
-                      p.mb-0.text-bold Y - <i>Yankee</i>
+                      p.mb-0.text-bold Y - <em>Yankee</em>
                     .br-15.text-center.align-content-center.mb-2(style="background-color: #F5ECE4; height: 50px;")
-                      p.mb-0.text-bold Z - <i>Zulu</i>
+                      p.mb-0.text-bold Z - <em>Zulu</em>
 
               .tarjeta.bg-white.p-4.h-100
                 h4.mb-3 Ejemplo práctico
@@ -570,7 +585,7 @@
 
     .row.align-items-center.justify-content-center.mb-5
       .col-lg-9.col-md-12.order-2.order-lg-1
-        p.mb-3 Dentro de la actividad turística también es común el uso de códigos internacionales para identificar aeropuertos y destinos turísticos. Los más conocidos son los códigos IATA, establecidos por la International Air Transport Association, los cuales están conformados por tres letras que identifican ciudades o aeropuertos específicos. Estos códigos aparecen frecuentemente en tiquetes aéreos, itinerarios de viaje y sistemas globales de distribución (GDS), por lo que el personal hotelero debe reconocerlos para interpretar correctamente información relacionada con reservas y desplazamientos de huéspedes.
+        p.mb-3 Dentro de la actividad turística también es común el uso de códigos internacionales para identificar aeropuertos y destinos turísticos. Los más conocidos son los códigos <em>IATA</em>, establecidos por la <em>International Air Transport Association</em>, los cuales están conformados por tres letras que identifican ciudades o aeropuertos específicos. Estos códigos aparecen frecuentemente en tiquetes aéreos, itinerarios de viaje y sistemas globales de distribución (<em>GDS</em>), por lo que el personal hotelero debe reconocerlos para interpretar correctamente información relacionada con reservas y desplazamientos de huéspedes.
         .row.align-items-center.mb-0
           .col-lg-auto.d-none.d-lg-block
             figure
