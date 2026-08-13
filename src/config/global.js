@@ -428,12 +428,12 @@ export default {
         {
           nombre: 'Claudia Johanna Gómez Pérez',
           cargo:
-            'Responsable Nacional Ecosistema de Recursos Educativos Digitales (RED) - Profesional 06',
+            'Profesional G06. Responsable Ecosistema Virtual de Recursos Educativos Digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
           nombre: 'Miguel de Jesús Paredes Maestre',
-          cargo: 'Responsable de línea de producción Atlántico',
+          cargo: 'Responsable de la línea de producción',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
       ],
@@ -445,7 +445,7 @@ export default {
           nombre: 'Amparo Virginia Moreno Cantero',
           cargo: 'Experto temático',
           centro:
-            'Centro de Servicios y Gestión Empresarial – Regional Antioquia',
+            'Centro de Servicios y Gestión Empresarial - Regional Antioquia',
         },
         {
           nombre: 'Harbey Castelblanco',
@@ -483,23 +483,23 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Jonathan Adié Villafañe',
-          cargo: 'Validador de recursos educativos digitales',
-          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
-        },
-        {
-          nombre: 'Karine Isabel Ospino Fritz',
-          cargo: 'Validador de recursos educativos digitales',
-          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
-        },
-        {
           nombre: 'Luz Karime Amaya Cabra',
-          cargo: 'Evaluador para contenidos inclusivos y accesibles',
+          cargo: 'Evaluador de contenidos inclusivos y accesibles',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
           nombre: 'Laura Daniela Burgos Rueda',
-          cargo: 'Evaluador para contenidos inclusivos y accesibles',
+          cargo: 'Evaluador de contenidos inclusivos y accesibles',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
+        },
+        {
+          nombre: 'Jonathan Adié Villafañe',
+          cargo: 'Validador y vinculador de recursos educativos digitales',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
+        },
+        {
+          nombre: 'Karine Isabel Ospino Fritz',
+          cargo: 'Validador y vinculador de recursos educativos digitales',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
       ],
